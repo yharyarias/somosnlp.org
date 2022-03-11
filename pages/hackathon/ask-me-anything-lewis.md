@@ -1,7 +1,7 @@
 ---
 title: Ask Me Anything + Sorteo de Libros
 speaker: Lewis Tunstall
-speaker_bio: Ingeniero de ML @HuggingFace | Escritor de "NLP with Transformers"
+speaker_bio: Ingeniero de ML @HuggingFace | Coautor de "NLP with Transformers"
 speaker_pic: https://somosnlp.github.io/assets/images/core_team_lewis.jpeg
 date: 2022-03-24T19:00:00.000+00:00
 lang: es
